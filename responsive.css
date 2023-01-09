@@ -1,0 +1,94 @@
+@media (max-width:1366px) {
+    .fix-width {
+        padding: 0 25px;
+    }
+    .about-right .right-content h3 {
+        margin-top: 5px;
+    }
+    .about p {
+        margin-top: 5px;
+    }
+}
+@media (max-width:1170px) {
+    .header-left h2 {
+        font-size: 25px;
+    }
+    .header-right ul li a {
+        font-size: 17px;
+        line-height: 70px;
+    }
+}
+
+@media (max-width:1070px) {
+    .header-left {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        float: none;
+        width: 100%;
+    }
+    .header-right ul {
+        text-align: center;
+    }
+    .banner {
+        height: 500px;
+    }
+    .about-left {
+        float: none;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .about-right {
+        float: none;
+        width: 100%;
+    }
+    .about-right .right-content {
+        margin-left: 0;
+    }
+}
+
+@media (max-width:768px) {
+    .header-right ul li a {
+        font-size: 17px;
+        line-height: 55px;
+        padding: 0px 15px;
+    }
+    .service-item {
+        width: 50%;
+    }
+}
+
+@media (max-width:670px) {
+    .banner {
+        height: 415px;
+    }
+    .banner-content h2 {
+        font-size: 30px;
+        padding-top: 125px;
+    }
+    .banner-content h5 {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .banner-content button {
+        margin-top: 35px;
+    }
+}
+
+@media (max-width:500px) {
+    .contact {
+        padding-bottom: 55px;
+    }
+    .contact-content {
+        float: none;
+        width: 100%;
+        margin-top: 25px;
+    }
+}
+@media (max-width:470px) {
+    .service-item {
+        width: 100%;
+    }
+}
